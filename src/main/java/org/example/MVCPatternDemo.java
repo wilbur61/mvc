@@ -1,7 +1,7 @@
 package org.example;
 
 /*  added this comment.  working on git concepts */
-
+/* added another comment to make sure cmd line did not hose me */
 public class MVCPatternDemo {
     private static Student retriveStudentFromDatabase (){
         Student stu =  new Student();
